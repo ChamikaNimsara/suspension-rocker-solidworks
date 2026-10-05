@@ -6,4 +6,4 @@
 *.slddrw binary
 *.pdf binary
 *.png binary
-*.avi binary
+*.avi filter=lfs diff=lfs merge=lfs -text

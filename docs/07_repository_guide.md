@@ -21,7 +21,7 @@ Copies of the native files from the source SolidWorks project are now organized 
 - `Simulation/` contains copied solver results and supporting artifacts. `.CWR` and `.LOG` files are excluded by `.gitignore`; archive them separately if they are needed for a published handoff. Verify the studies' result paths against this folder before using the copied results.
 - `Animations/` contains `Rocker_Travel_Baseline.avi`. No optimized travel video is included.
 - `Results/` contains the existing CSV summaries, evidence manifest and two copied interference-calculation `.xlsx` spreadsheets.
-- For large CAD/video binaries, consider Git LFS. The provided `.gitattributes` marks binaries but does not configure LFS or silently change your repository storage policy.
+- The baseline AVI is tracked with Git LFS through `.gitattributes`. Install Git LFS and run `git lfs pull` after cloning to retrieve the video content. CAD and drawing files are tracked as regular Git binaries; solver caches retain the existing ignore policy.
 
 ## Publication checks
 
