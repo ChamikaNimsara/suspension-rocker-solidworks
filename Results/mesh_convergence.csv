@@ -1,0 +1,3 @@
+design,coarse_max_mesh_mm,fine_max_mesh_mm,stress_change_percent,displacement_change_percent,strain_change_percent
+Baseline,1.5,1.2,3.287637995875281,0.08600301010535105,1.6433353621424285
+Optimized,1.5,1.2,0.08353221957040358,0.016321201240421246,0.29970029970030065

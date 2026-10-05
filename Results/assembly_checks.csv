@@ -1,0 +1,4 @@
+design,position,input_travel_mm,ignored_thread_proxy_overlaps,remaining_interferences,evidence
+Optimized,Ride,0,8,0,User-confirmed during project
+Optimized,Bump,30,8,0,User-confirmed during project
+Optimized,Droop,-30,8,0,User-confirmed during project

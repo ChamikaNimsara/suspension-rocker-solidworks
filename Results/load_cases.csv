@@ -1,0 +1,5 @@
+load_case,vertical_input_force_N,pushrod_force_magnitude_N,damper_force_magnitude_N,pushrod_axis_deg_from_body_fixed_x,damper_axis_deg_from_body_fixed_x
+Ride proof,6000,6385.07,7500,70,0
+Bump +30 mm proof,6000,6412.26,9807.04,86.55,19.66
+Droop -30 mm proof,6000,6420.13,5728.17,49.65,-20.42
+Ride reverse,-2000,2128.36,2500,70,0

@@ -1,0 +1,9 @@
+design,load_case,max_mesh_mm,min_mesh_mm,nodes,elements,max_nodal_von_mises_MPa,max_resultant_displacement_mm,max_equivalent_strain
+Baseline,Ride proof 6 kN,1.5,0.3,784424,554512,71.7,0.04787,0.0007846
+Baseline,Reverse 2 kN,1.5,0.3,784424,554512,31.6,0.01734,0.0003425
+Baseline,Bump +30 mm 6 kN,1.5,0.3,784424,554512,82.43,0.04651,0.0009858
+Baseline,Bump +30 mm 6 kN,1.2,0.24,1342608,956878,85.14,0.04655,0.001002
+Baseline,Droop -30 mm 6 kN,1.5,0.3,784424,554512,65.6,0.04061,0.0007201
+Optimized,Bump +30 mm 6 kN,1.5,0.3,748824,527910,83.8,0.06127,0.001001
+Optimized,Bump +30 mm 6 kN,1.2,0.24,1267794,901045,83.87,0.06128,0.001004
+Optimized,Reverse 2 kN,1.5,0.3,748824,527910,31.3,0.02256,0.0003441

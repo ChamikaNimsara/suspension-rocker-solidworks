@@ -1,0 +1,74 @@
+[
+  {
+    "file": "Images/evidence/optimized_assembly.png",
+    "source_attachment": "image(20261005-130148).png",
+    "caption": "Optimized assembly at nominal ride position",
+    "sha256": "e827828af0e2fb95ba17603837835e52d6cd807b740d47bb60da0d3aa523aa22"
+  },
+  {
+    "file": "Images/evidence/optimized_rocker.png",
+    "source_attachment": "image(20261005-130119).png",
+    "caption": "Optimized rocker geometry and feature tree",
+    "sha256": "3d28ed55de41ff313715c56f4b36bd5d64b6fea6268693019cfdda1a96eb3dfa"
+  },
+  {
+    "file": "Images/evidence/baseline_bump_fine_stress.png",
+    "source_attachment": "image(20261005-093640).png",
+    "caption": "Baseline bump, fine mesh: nodal von Mises 85.14 MPa",
+    "sha256": "fe58f112e77e702f4d9cd98b696f055babea36c4f3be8c31cc98e0b98f1e2c15"
+  },
+  {
+    "file": "Images/evidence/baseline_bump_fine_displacement.png",
+    "source_attachment": "image(20261005-093659).png",
+    "caption": "Baseline bump, fine mesh: URES 0.04655 mm",
+    "sha256": "86812565e9e204a34a644c9ae91a9ae4bac01400cadb7bc126fc93900a3c4a30"
+  },
+  {
+    "file": "Images/evidence/baseline_bump_fine_strain.png",
+    "source_attachment": "image(20261005-093718).png",
+    "caption": "Baseline bump, fine mesh: ESTRN 0.001002",
+    "sha256": "f3499afa1329c32ad70d71ac4c43b306889cf573ec4a2a949799e742ed767dd3"
+  },
+  {
+    "file": "Images/evidence/optimized_bump_coarse_stress.png",
+    "source_attachment": "image(20261005-101357).png",
+    "caption": "Optimized bump, coarse mesh: nodal von Mises 83.80 MPa",
+    "sha256": "1b070026c048912d24eb665576ba4e876a1383049a8723d8b5f062b1ddce1fe7"
+  },
+  {
+    "file": "Images/evidence/optimized_bump_fine_stress.png",
+    "source_attachment": "image(20261005-103517).png",
+    "caption": "Optimized bump, fine mesh: nodal von Mises 83.87 MPa",
+    "sha256": "bf8a531b38e325a295ca267d3e464a14d9201bc6cb8e0c19674b1efd7d03eda6"
+  },
+  {
+    "file": "Images/evidence/optimized_bump_fine_displacement.png",
+    "source_attachment": "image(20261005-103538).png",
+    "caption": "Optimized bump, fine mesh: URES 0.06128 mm",
+    "sha256": "e61329a4a81d8c48c30e1824e4b96b3a2e84527a45e8b3e0579324610fbeb474"
+  },
+  {
+    "file": "Images/evidence/optimized_bump_fine_strain.png",
+    "source_attachment": "image(20261005-103603).png",
+    "caption": "Optimized bump, fine mesh: ESTRN 0.001004",
+    "sha256": "b9c38cf584ebec136af8bce10457f53a42449d2232e0ce25f01baadbc1876502"
+  },
+  {
+    "file": "Images/evidence/optimized_reverse_stress.png",
+    "source_attachment": "image(20261005-102057).png",
+    "caption": "Optimized reverse: nodal von Mises 31.30 MPa",
+    "sha256": "6381ce851fa1e001e10a5af4ce9bdbc407c4dc3caa3a823665b85cb00dc94c86"
+  },
+  {
+    "file": "Images/evidence/optimized_reverse_displacement.png",
+    "source_attachment": "image(20261005-102112).png",
+    "caption": "Optimized reverse: URES 0.02256 mm",
+    "sha256": "b51cdd3117125c743b464324b8532b3855904f5709d94beb27f8902858bca062"
+  },
+  {
+    "file": "Images/evidence/optimized_reverse_strain.png",
+    "source_attachment": "image(20261005-102129).png",
+    "caption": "Optimized reverse: ESTRN 0.0003441",
+    "sha256": "8f4c840ba83abafb9b9efb96f31dbd6e2d2818747d51a4e0229dd8162d5c7303"
+  }
+]

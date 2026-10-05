@@ -1,0 +1,14 @@
+# SolidWorks temporary and backup files
+~$*
+*.sldbak
+*.swbak
+*.tmp
+*.log
+# Large solver-generated caches; archive separately if needed
+*.cwr
+*.out
+*.err
+__pycache__/
+.venv/
+.DS_Store
+Thumbs.db

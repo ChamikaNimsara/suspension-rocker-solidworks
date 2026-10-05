@@ -1,0 +1,9 @@
+*.SLDPRT binary
+*.SLDASM binary
+*.SLDDRW binary
+*.sldprt binary
+*.sldasm binary
+*.slddrw binary
+*.pdf binary
+*.png binary
+*.avi binary
