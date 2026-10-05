@@ -1,0 +1,16 @@
+[StartTime]
+Rocker_Baseline-Baseline_Proof_Load_6kN.MFC=29s
+[SolverState]
+Rocker_Baseline-Baseline_Proof_Load_6kN.MFC=2
+[MainFrame]
+Rocker_Baseline-Baseline_Proof_Load_6kN.MFC=MCAAAAAAAAAAAAAABAAAAAAAPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPMEEAAAAAHGCAAAAAELFAAAAAKDDAAAAA
+[ShowMin]
+Rocker_Baseline-Baseline_Proof_Load_6kN.MFC=No
+[SolverType]
+Rocker_Baseline-Baseline_Proof_Load_6kN.MFC=Linear Analysis
+[StudyType]
+Rocker_Baseline-Baseline_Proof_Load_6kN.MFC=0
+[StudyName]
+Rocker_Baseline-Baseline_Proof_Load_6kN.MFC=Baseline_Proof_Load_6kN
+[Solver]
+Rocker_Baseline-Baseline_Proof_Load_6kN.MFC=Iterative

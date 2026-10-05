@@ -1,0 +1,16 @@
+[StartTime]
+Rocker_Baseline-Baseline_Reverse_Load_2kN.MFC=28s
+[SolverState]
+Rocker_Baseline-Baseline_Reverse_Load_2kN.MFC=2
+[MainFrame]
+Rocker_Baseline-Baseline_Reverse_Load_2kN.MFC=MCAAAAAAAAAAAAAABAAAAAAAPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPMEEAAAAAHGCAAAAAELFAAAAAKDDAAAAA
+[ShowMin]
+Rocker_Baseline-Baseline_Reverse_Load_2kN.MFC=No
+[SolverType]
+Rocker_Baseline-Baseline_Reverse_Load_2kN.MFC=Linear Analysis
+[StudyType]
+Rocker_Baseline-Baseline_Reverse_Load_2kN.MFC=0
+[StudyName]
+Rocker_Baseline-Baseline_Reverse_Load_2kN.MFC=Baseline_Reverse_Load_2kN
+[Solver]
+Rocker_Baseline-Baseline_Reverse_Load_2kN.MFC=Iterative

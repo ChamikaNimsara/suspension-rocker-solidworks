@@ -1,0 +1,16 @@
+[StartTime]
+Rocker_Baseline-Baseline_Design_Load_Mesh2.MFC=11s
+[SolverState]
+Rocker_Baseline-Baseline_Design_Load_Mesh2.MFC=2
+[MainFrame]
+Rocker_Baseline-Baseline_Design_Load_Mesh2.MFC=MCAAAAAAAAAAAAAABAAAAAAAPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPMEEAAAAAHGCAAAAAELFAAAAAKDDAAAAA
+[ShowMin]
+Rocker_Baseline-Baseline_Design_Load_Mesh2.MFC=No
+[SolverType]
+Rocker_Baseline-Baseline_Design_Load_Mesh2.MFC=Linear Analysis
+[StudyType]
+Rocker_Baseline-Baseline_Design_Load_Mesh2.MFC=0
+[StudyName]
+Rocker_Baseline-Baseline_Design_Load_Mesh2.MFC=Baseline_Design_Load_Mesh2
+[Solver]
+Rocker_Baseline-Baseline_Design_Load_Mesh2.MFC=Iterative

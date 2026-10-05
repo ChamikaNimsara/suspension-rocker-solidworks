@@ -1,0 +1,16 @@
+[StartTime]
+Rocker_Baseline-Baseline_Reverse_2kN_Bearing.MFC=1m:1s
+[SolverState]
+Rocker_Baseline-Baseline_Reverse_2kN_Bearing.MFC=2
+[MainFrame]
+Rocker_Baseline-Baseline_Reverse_2kN_Bearing.MFC=MCAAAAAAAAAAAAAABAAAAAAAPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPMEEAAAAAHGCAAAAAELFAAAAAKDDAAAAA
+[ShowMin]
+Rocker_Baseline-Baseline_Reverse_2kN_Bearing.MFC=No
+[SolverType]
+Rocker_Baseline-Baseline_Reverse_2kN_Bearing.MFC=Linear Analysis
+[StudyType]
+Rocker_Baseline-Baseline_Reverse_2kN_Bearing.MFC=0
+[StudyName]
+Rocker_Baseline-Baseline_Reverse_2kN_Bearing.MFC=Baseline_Reverse_2kN_Bearing
+[Solver]
+Rocker_Baseline-Baseline_Reverse_2kN_Bearing.MFC=Iterative
